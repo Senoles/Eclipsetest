@@ -16,6 +16,7 @@ import android.widget.LinearLayout;
 public class TestButton extends Activity{
 	private Button but;
 	private Button add;
+	//dfdfdfkjdkfjdfkjdfkd
 	private LinearLayout lin;
 	private static int count=1;
 	private ArrayList<Button>list=new ArrayList<Button>();
